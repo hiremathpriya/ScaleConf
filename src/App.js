@@ -23,141 +23,66 @@ class App extends Component {
 <div className="container">
   
   
-  I consider myself one of the lucky one who got the chance to go to ScaleConf which was held on 7th of August here in Wellington.
+I consider myself one of the lucky ones who got the chance to go to ScaleConf— an international  technical conference for those who build or maintain web services.  It was held on 7th of August here in Wellington.
+It was worth attending ScaleConf, and for a beginner like me it was a great platform to know what’s going around the world, to be curious, to network, to learn and to know how you can make technology safer for people around the world, and how you can be part of that.
+ I like conferences for multiple reasons:
+1. You get to listen to some awesome ideas
+2. Networking with creative problem solvers<br/>>
 
-  As much as I was looking forward to attend my first ever tech conference, I was more interested in listening from some of the smartest people from around the world. 
-  The venue was our most beautiful and architurally strong building "Te Papa"  we were welcomed by some very enthusiatic volunteers at the entrance  and they handed over 
-  some goodies and registered us for the day.
-    Our host for the day had a preety good sense of humour and good knowledge about all the speakers.
-     I remember when he was giving some in case of emergency instructions, he said if Tusanmi then follow him to upstairs and get better views from there, and incase of earthquake sit tight for rock and roll.
-     as we are in the one of the safest and strongest building in the wellington" 
-     The day had good line up of speakers it started with scaling the clouds and finished with Data patterns. There were lot to take from every speaker,
-     seeing their passion and work made me wonder "Technology is very deep side of this new age and how we grow and fit in here will only be decided by our drive and passion"
-     Whole day I got to hear about so many new frameworks, systems and all sort of new technology cool words ;) 
-     Well I must admit though not everything stuck in my brain, in some of the speeches I was completly LOST, As my tech jouny hasnt been so deep yet,
-     for eg. Heptio Contour, world of ingress and service mesh, data Patterns etc..
-     after every speech my brain came up with the question, Like what is this?? and how it works?? where is technolgoy heading towards?
-     and Oh MY GOD how am I supoosed to know all this?? 
-     well.. well.. well.. Don't be afraid we are not in the race, with the time I am sure we all will know all these things, this just our 
-     beginning of the new age high tech world. We all should be excited.. about this journey as there is so much out there it's like a sea.
-     Our day was fully packed back to back speeches, in lunch time my favorite one's were: Blockchain by Mark pascall A I really wanted to know what the 
-     the whole big fuss Blockchain is all about. I was really looking forward to listening to Vinu from Twitter but with some visa issues she couldn't make it.
-     so that was bit a shame.
-     Also enjoyed the talk of Mr.Kumar while he talked about the avilability and downtime formula about the websites, and Million dollar webpage.
-     Also it was quite interesting to hear Mr. Daniel McClelland talkig about automation tests. I also got to talk to him in a person.
-      It was a great opprtunity for all of us there to network, meet these brillient speakers and know about thier journey.
-      During Lunch time we had this chance to meet and greet all these people and get to know them.
-      I must mention here, that big appluse to all the catering team, The food was absolutly fantastic. I loved all the salad options for lunch with Rice, curry and Lamb kebabs. Also Pastrami, melted cheese Croissant for afternoon tea,
-      And rest of the food with all the veg and vegan options.
+The venue was our most beautiful and architecturally strong building “Te Papa”  we were welcomed by some very enthusiastic volunteers at the entrance  and they handed over some goodies and registered us for the day.
+Our host for the day had a pretty good sense of humour and good knowledge about all the speakers.
+I remember when he was giving us in case of emergency instructions, he said some thing humorous  apart from real instructions., “If there’s a tsunami then follow me upstairs and get better views from there, and in case of earthquake sit tight and rock n roll, as we are in one of the safest and strongest buildings in Wellington”.
+The day had good line up of speakers it started with scaling the clouds and finished with Data patterns. There were lot to take from every speaker.
+Seeing their passion and work, made me wonder “Technology is very deep side of this new age and how we grow and fit in here will only be decided by our drive and passion”
+During the day I got to hear about so many new frameworks, systems and all sorts of new technology. I learned a lot of new words and concepts, like “Heptio Contour”, “world of ingress”, “service mesh”, “data patterns” etc.. it all sounded like alien world out there.
+Well, I must admit though not everything stuck in my brain, in some of the talks I was completely LOST, my tech journey only just started!
+After  almost every session my brain came up with questions:<br/>
+What is this all about?  How does it work?  What are they even talking about? Where is technology heading? OMG!  am I supposed to know all this??
+Then I reminded myself: don’t be afraid we are not in a race, given time I am sure we all will know all these things.
+This just our beginning in the tech world. We all should be excited about this journey as there is so much out there to learn and make use of for the betterment of people and society.
+The conference reinforced my commitment to developing sound knowledge and building in a safe environment & society.<br/>
 
-      After lunch there were some more interesting topics and speakers were lined up some of them were Seth vargo, who talked about DevOps vs SRE.
-      Seth came from google. Peter Sbarski who came from Australia he talked about Serverless in Practice. rest of the talks were also interesting, I will write down summary for these talk below,
+Our day was fully packed with back to back talks, the highlight of my morning was: Mark Pascall on the Blockchain – I know there is a big fuss about Blockchain at the moment, so it was nice to shed some light on that!
+The low of the conference was that Vinu Charanya from Twitter couldn’t make it due to some visa issues, I was really looking forward to hear her talk.
+I enjoyed the talk of Kumar Srinivasamurthy, he talked about the availability and downtime formula for websites, and gave us an example of million dollar webpage. (check it out http://www.milliondollarhomepage.com/)<br/>
 
-      It was all worth attending the scale Conf for beggineer like me it was a great platform to,to know what's going around the world, where the tech industry is heading towards, what you can learn and how you can make technolgy safer for people around the world and how you can help to do that.
-       the knowledge,technolgoy, Networking. there were some more questions took birth in my brain,
-      it's like seeing other side of the world of technolgoy.</div>
-    
+Kumar works with the Bing search engine spoke about the challenges of availability of the systems,  graphs and the key results. Following Kumar’s talk I am still pondering:<br/>
+Be aware of the metrics that you want to capture as they drive behaviour
+All the key results and metrics can be gamified so consider key result refresh
+After a while some metrics do flat line and it’s ok
+Another interesting  topic was Making Test Automation Observable by Daniel McClelland from Trade Me.  I also got to talk to him in person. Daniel talked about automation test suits, Jenkins pipelines and how to monitor all the things including the Jenkins logs. This was pretty relevant to me as I love testing related talks.<br/>
 
-  
-    <div><h1 className="title  is-primary is-centered">Lessons Learned</h1></div>
-      
-      
-      
-      <div className="columns is-centered inline-block is-one-third is-mobile $column-gap is-multiline box is-small">
-      
-        <div className="column is-one-third $column-gap" >
+ScaleConf was a great opportunity for all of us there to network, meet these brilliant speakers and know about their journey.<br/>
+
+I must mention here, a big applause to all the catering team, the food was absolutely fantastic. I loved all the salad options for lunch with Rice, curry and lamb kebabs. Also Pastrami, melted cheese croissant for afternoon tea, and rest of the food with all  the veg. and vegan options.
+After lunch, many more interesting topics and speakers were lined up, including Seth Vargo from Google, who talked about DevOps vs SRE.
+Peter Sbarski came from A Cloud Guru in Australia and talked about Server-less in Practice. There was something to take from every speaker.
+I would like to thank the Summer of Tech team and the people at ScaleConf for giving me a chance to attend the conference.
+Here a quick summarised version of some of the other talks and lessons learned:<br/>
+Dave Cheney’s talk about Heptio Contour was a real deep dive in to how the source code is managed in open source world.
+Diana Omuoyo’s talk about performance was very interesting and showed that applications in cloud also need to consider performance.
+The Ingress and Service Mesh talk from Anthony (from Ngnix) showed us some cool ways where we could put a monolith in a container and use service mesh to scale that as a microservice. It was interesting to see how Nginx has grown from a simple, high performing web server to a platform for deploying microservices.
+Josh Kalderimis from Travis CI talked to us about the challenges of maintaining two product offering and the challenges they had merging to single platform.
+Maximiliano Firtman’s presentation about web performance was very educating. He dispensed some pretty good tips in how we could use some well known techniques to improve the performance of the site.
+Then we had some more containerisation and serverless using ase lambda talk. These were very informative in terms of how companies are seeing benefits of containerisation and cloud offerings.
+Ben Dechrai gave an interesting talk about a simple layman’s version of how the JWT (json web token) works in real life. He used Thor walking into a pub scenario to explain the concept of jwt tokens!
+Finally, Andrew Jones talked to us about the data patterns catalogue that he is working on that would help developers who are trying to move from monolith to microservices. He talked to us about Thoughtworks’ experience with Kafka and how some of the other companies are using Kafka in microservices architecture.
+
+
         
+        </div>
+        </div>
        
-        <img className="image is-128x128" src="../images/1.jpg" alt=""/>
-        Andrew Jones
-        <img classname="image is-128-128" src="../images/DataP-Jones.jpg" alt=""/>
-        
-        </div>
-        <div className="column is-one-fifth $column-gap">
-        <img className="image is-128x128" src="../images/2.jpg" alt="" />
-        Ben Dechrai
-        <img className="image is-128x128" src="../images/JStokens-ben.JPG" alt="" />
-        </div>
-        <div className="column is-one-third $column-gap">
-        <img className="image is-128x128" src="../images/3.jpg" alt=""/>
-        Daniel McClelland
-        </div>
-        </div>
-
-        <div className="columns inline-block  is-centered is-one-third $column-gap is-mobile is-multiline box is-small">
-        <div className="column">
-        <img className="image is-128x128" src="../images/4-Cheney.jpg" alt=""/>
-        Dave Cheney
-
-        </div>
-        <div className="column is-one-third">
-        <img className="image is-128x128" src="../images/5-O.jpg" alt=""/>
-        Diana Omuoyo
-        </div>
-        <div className="column is-one-third">
-        <img className="image is-128x128" src="../images/6-Walcott.jpg" alt=""/>
-        Hugh Walcott
-        CTO at StrataMap.io
-        </div>
-        </div>
-
-        <div className="columns inline-block is-centered is-one-third $column-gap is-mobile is-multiline box">
-        <div className="column is-one-third">
-        <img className="image is-128x128" src="../images/7-Kalderimis.jpg" alt=""/>
-        Josh Kalderimis
-        
-        </div>
-        <div className="column is-one-third">
-        <img className="image is-128x128" src="../images/SconfNZ_Kumar-Srinivasamurthy.jpg" alt=""/>
-        Kumar Srinivasamurthy
-        </div>
-        <div className="column is-one-third">
-        <img className="image is-128x128" src="../images/SconfNZ_Mark-Pascall.jpg" alt=""/>
-        Mark Pascall
-        Co-founder & Director at Blockchainlabs.nz
-        </div>
-        </div>
-
-        <div className="columns inline-block  is-centered is-one-third $column-gap is-mobile is-multiline box">
-        <div className="column is-one-third">
-        <img className="image is-128x128" src="../images/SconfNZ_Maximiliano-Firtman.jpg" alt="" />
-        Maximiliano Firtman
-        </div>
-        <div className="column is-one-third">
-        <img className="image is-128x128" src="../images/SconfNZ_peter-sbarski.jpg" alt=""/>
-        Peter Sbarski
-        </div>
-        <div className="column is-one-third">
-        <img className="image is-128x128" src="../images/SconfNZ_Shumin-Zhou.jpg" alt=""/>
-        Shumin Zhou
-        </div>
-        </div>
-
-        <div className="columns inline-block  is-one-third $column-gap is-mobile is-multiline box">
-        <div className="column is-one-third">
-        <img className="image is-128x128" src="../images/SconfNZ_Regan-Murphy.jpg" alt=""/>
-        Regan Murphy
-        </div>
-        <div className="column is-one-third">
-        <img className="image is-128x128" src="../images/SconfNZ_Sean-Maritz.jpg" alt=""/>
-        Sean Maritz
-        </div>
-        <div className="column is-one-third">
-        <img className="image is-128x128" src="../images/SconfNZ_Seth-Vargo.jpg" alt=""/>
-        Seth Vargo
-        </div>
-        </div>
-        <div>
-        </div>
-        </div>
       
-        
+    )
+  }
+}
       
       
               
           
-          );
-        }
-      }
+          
+        
+      
 
       export default App;
